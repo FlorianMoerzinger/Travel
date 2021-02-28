@@ -1,0 +1,35 @@
+body {
+  margin: 0%;
+  padding: 0%; }
+
+#header {
+  height: 2rem;
+  background-color: #C09AF3; }
+
+nav {
+  background-color: #C09AF3; }
+
+.movementRestaurant {
+  background: url(../IMG/ljub.jpg);
+  height: 100%;
+  width: 100%; }
+
+.movementEvent {
+  background: url(../IMG/salz.jpeg); }
+
+.img {
+  width: 100%;
+  border-radius: 30%; }
+
+.article {
+  border: 5px solid #C09AF3;
+  border-radius: 5%; }
+
+.notShowBasic {
+  display: none; }
+
+#footer {
+  height: 4rem;
+  background-color: #C09AF3; }
+
+/*# sourceMappingURL=main.css.map */
